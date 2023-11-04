@@ -1,0 +1,14 @@
+{
+  "name": "tutobotpourlesnuls",
+  "version": "1.0.0",
+  "description": "Un bot pour une série de vidéos.",
+  "main": "index.js",
+  "author": "svasco",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.12.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.13.7"
+  }
+}
